@@ -155,7 +155,7 @@ ui <- fluidPage(navbarPage("Confidence Intervals",
       
     })
     
-  })
+  }
 
 
     
