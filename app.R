@@ -1,5 +1,5 @@
 library(shiny)
-
+#t
 # 1. UI Section (Paste content from your old ui.R here)
 ui <- fluidPage(navbarPage("Confidence Intervals",
                            tabPanel("Mean: Known Sigma",
